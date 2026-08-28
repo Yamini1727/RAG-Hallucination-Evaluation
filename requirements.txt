@@ -1,0 +1,11 @@
+llama-index
+sentence-transformers
+qdrant-client
+groq
+datasets
+wandb
+peft
+transformers
+streamlit
+scipy
+statsmodels
