@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large data files — regenerate locally, don't commit
+data/processed/*.csv
