@@ -1,0 +1,21 @@
+{
+  "table [gold retrieved yes/no] x [hallucinated yes/no]": [
+    [
+      462,
+      3666
+    ],
+    [
+      146,
+      51
+    ]
+  ],
+  "halluc_rate_when_gold_retrieved": 0.1119186046511628,
+  "halluc_rate_when_gold_missed": 0.7411167512690355,
+  "odds_ratio_retrieved_vs_missed": 0.044343467675462135,
+  "or_ci": [
+    0.03181862815041248,
+    0.0617984884888653
+  ],
+  "chi2": 610.9308247293762,
+  "p": 7.019287849111814e-135
+}
