@@ -1,0 +1,10 @@
+{
+  "chosen": "HHEM (tuned)",
+  "detector": "hhem",
+  "threshold": 0.31940120458602905,
+  "mean_auc": {
+    "HHEM (tuned)": 0.8697279258497148,
+    "DeBERTa-LoRA (tuned)": 0.7445769571628289
+  },
+  "rule": "highest mean AUC over benchmark-test and injected sets; threshold = Youden J on benchmark val"
+}
